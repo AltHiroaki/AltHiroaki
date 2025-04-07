@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**AltHiroaki/AltHiroaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduce☺
+　こんにちは！和歌山大学生の信寛昭です！
+- 自己紹介
+  - 名前
+      信 寛昭
+  - 好きなご飯
+      お寿司
+  - 趣味
+      登山
+- 経歴
+  和歌山大学システム工学科情報学領域
+- 所持資格
+  - 基本情報技術者
