@@ -32,3 +32,5 @@
 
 ## 連絡リンク
   - [Twitter（現X）](https://x.com/AltHiroaki)
+  - メール（和歌山大学）
+      - s2410133@wakayama-u.ac.jp
