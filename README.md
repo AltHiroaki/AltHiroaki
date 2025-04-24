@@ -1,6 +1,7 @@
 # Introduce🥳
 
-こんにちは！和歌山大学生の<strong>信</strong> <strong>寛昭</strong>です！
+Hello!My name is <strong>信</strong> <strong>寛昭</strong>!
+I am studying  in <strong>Information Systems Design Faculty of Systems Engineering Wakayama University</strong>!
 
 ## 自己紹介
 
