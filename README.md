@@ -1,8 +1,9 @@
-# Introduce🥳
+# Introduction 🥳
 
-Hello!My name is <strong>信</strong> <strong>寛昭</strong>!
+Hello! My name is **Hiroaki Shin (信 寛昭)**.
 
-I am studying  in <strong>Information Systems Design Major, Informatics Division, Faculty of Systems Engineering, Wakayama University</strong>!
+I’m studying in the **Information Systems Design Major, Informatics Division, Faculty of Systems Engineering, Wakayama University**.
+
 
 ## 自己紹介
 
