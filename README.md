@@ -1,6 +1,6 @@
 # Introduction 🥳
 
-Hello! My name is **Hiroaki Shin (信 寛昭)**.
+Hello! My name is **Hiroaki Shin**.
 
 I’m studying in the **Information Systems Design Major, Informatics Division, Faculty of Systems Engineering, Wakayama University**.
 
