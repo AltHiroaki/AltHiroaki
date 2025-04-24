@@ -1,7 +1,7 @@
 # Introduce🥳
 
 Hello!My name is <strong>信</strong> <strong>寛昭</strong>!
-I am studying  in <strong>Information Systems Design Faculty of Systems Engineering Wakayama University</strong>!
+I am studying  in <strong>Information Systems Design Major, Informatics Division, Faculty of Systems Engineering, Wakayama University</strong>!
 
 ## 自己紹介
 
