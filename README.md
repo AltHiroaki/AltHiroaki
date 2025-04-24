@@ -1,6 +1,6 @@
 # Introduce🥳
 
-こんにちは！和歌山大学生の信寛昭です！
+こんにちは！和歌山大学生の<strong>信</strong> <strong>寛昭</strong>です！
 
 ## 自己紹介
 
