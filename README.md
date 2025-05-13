@@ -25,9 +25,9 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   
   もっとも偉大な勝利とは、自分に打ち勝つことである。（プラトン）
 
-  ```
+  `
   git pull origin main
-  ```
+  `
 
   ### 特技
   - 星のカービィシリーズの曲のバージョン当て  
