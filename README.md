@@ -43,6 +43,7 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
 <a href="https://youtu.be/C5-GCpRhjBA" target="_blank">
   <img src="http://img.youtube.com/vi/C5-GCpRhjBA/maxresdefault.jpg" width="50%" alt="透明な街">
 </a>
+
   - 寝ること
 
   ### 現在の目標
