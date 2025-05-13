@@ -38,7 +38,9 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - 星のカービィシリーズ  
   - ジャンルを問わず芸術に触ること（お笑いを除く）
   - 食べること
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/oGpv6yrdM4E?si=w8MSwkDi-rNbO0US" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>こんな感じの曲を聴くこと</iframe>
+
+
+  [![透明な街](http://img.youtube.com/vi/C5-GCpRhjBA/maxresdefault.jpg)](https://youtu.be/C5-GCpRhjBA?si=uvi3uR9cEEFbwdWv "透明な街")
   - 寝ること
 
   ### 現在の目標
