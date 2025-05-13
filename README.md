@@ -42,7 +42,7 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - 寝ること
 
   ### 現在の目的
-  - 応用情報技術者試験の取得
+  - [ ] 応用情報技術者試験の取得
 
 ## 経歴  
   追手門学院大手前高等学校  
