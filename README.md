@@ -38,7 +38,7 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - 星のカービィシリーズ  
   - ジャンルを問わず芸術に触ること（お笑いを除く）
   - 食べること
-  - [中速の曲を聴くこと。](https://www.youtube.com/watch?v=oGpv6yrdM4E)
+  - [こんな感じの曲を聴くこと](https://www.youtube.com/watch?v=oGpv6yrdM4E)
   - 寝ること
 
   ### 現在の目的
