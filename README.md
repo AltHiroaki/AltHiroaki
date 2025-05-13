@@ -18,12 +18,16 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
 
   ### 好きなご飯🍖
   - お寿司
-  - お肉
+  - <span style="color : red">お肉🍖</span>
   - 白ネギ
-  ### 好きな言葉💫
+  ### 好きな言葉、コード💫
   > The first and best victory is to conquer self. -Plato
   
   もっとも偉大な勝利とは、自分に打ち勝つことである。（プラトン）
+
+  ```
+  git pull origin main
+  ```
 
   ### 特技
   - 星のカービィシリーズの曲のバージョン当て  
