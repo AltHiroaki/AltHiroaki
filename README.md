@@ -25,9 +25,14 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   
   もっとも偉大な勝利とは、自分に打ち勝つことである。（プラトン）
 
+  > お風呂が沸きました -給湯器 
+
+  もっとも歓喜する瞬間とは、一番風呂に入る時である。（ひろあき）
+
   `
   git pull origin main
   `
+  
 
   ### 特技
   - 星のカービィシリーズの曲のバージョン当て  
