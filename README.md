@@ -57,6 +57,10 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
 - [x] 基本情報技術者 
 
 ## 連絡リンク
-  - [Twitter（現X）](https://x.com/AltHiroaki)
+  - Twitter（現X）
+
+https://x.com/AltHiroaki
+
   - メール（和歌山大学）
-      - s2410133@wakayama-u.ac.jp
+
+s2410133@wakayama-u.ac.jp
