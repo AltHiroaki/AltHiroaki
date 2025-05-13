@@ -8,7 +8,9 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
 ## 自己紹介
 
   ### 名前✒️
-  信 寛昭
+  <strong>信 寛昭</strong>
+
+  <img src="IMG_8218.jpg" width=50%>
 
   ### 所属🥕
   - ITものづくりプロジェクト AppLii  
@@ -18,6 +20,10 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - お寿司
   - お肉
   - 白ネギ
+  ### 好きな言葉💫
+  > The first and best victory is to conquer self. -Plato
+  
+  もっとも偉大な勝利とは、自分に打ち勝つことである。（プラトン）
 
   ### 特技
   - 星のカービィシリーズの曲のバージョン当て  
@@ -26,8 +32,9 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   ### 趣味
   - 登山  
   - 星のカービィシリーズ  
-  - ジャンルを問わず芸術に触ること（お笑いを除く）  
+  - ジャンルを問わず芸術に触ること（お笑いを除く）
   - 食べること
+  - [中速の曲を聴くこと。](https://www.youtube.com/watch?v=oGpv6yrdM4E)
   - 寝ること
 
   ### 現在の目的
@@ -38,7 +45,7 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   和歌山大学システム工学科情報学領域
 
 ## 所持資格
-  - 基本情報技術者
+- [x] 基本情報技術者 
 
 ## 連絡リンク
   - [Twitter（現X）](https://x.com/AltHiroaki)
