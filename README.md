@@ -38,10 +38,10 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - 星のカービィシリーズ  
   - ジャンルを問わず芸術に触ること（お笑いを除く）
   - 食べること
-  - [こんな感じの曲を聴くこと](https://www.youtube.com/watch?v=oGpv6yrdM4E)
+  - <iframe width="560" height="315" src="https://www.youtube.com/embed/oGpv6yrdM4E?si=w8MSwkDi-rNbO0US" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>こんな感じの曲を聴くこと</iframe>
   - 寝ること
 
-  ### 現在の目的
+  ### 現在の目標
   - [ ] 応用情報技術者試験の取得
 
 ## 経歴  
