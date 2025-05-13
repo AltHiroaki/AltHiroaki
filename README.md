@@ -20,7 +20,7 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
   - お寿司
   - <span style="color : red">お肉🍖</span>
   - 白ネギ
-  ### 好きな言葉、コード💫
+  ### 好きな言葉💫
   > The first and best victory is to conquer self. -Plato
   
   もっとも偉大な勝利とは、自分に打ち勝つことである。（プラトン）
