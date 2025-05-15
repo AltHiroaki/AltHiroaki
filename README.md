@@ -7,7 +7,8 @@ I’m studying in the **Information Systems Design Major, Informatics Division, 
 
 ## 自己紹介
 
-  ### 名前✒️
+  ### 基本情報😆
+  #### 名前✒️
   <strong>信 寛昭</strong>
 
   <img src="IMG_8218.jpg" width=50%>
